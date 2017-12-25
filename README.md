@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Docker — 从入门到实践
 
 [![](https://img.shields.io/github/stars/yeasy/docker_practice.svg?style=social&label=Stars)](https://github.com/yeasy/docker_practice) [![](https://img.shields.io/docker/pulls/yeasy/docker_practice.svg)](https://store.docker.com/community/images/yeasy/docker_practice) [![](https://travis-ci.org/yeasy/docker_practice.svg?branch=master)](https://travis-ci.org/yeasy/docker_practice) [![](https://img.shields.io/github/release/yeasy/docker_practice/all.svg)](https://github.com/yeasy/docker_practice/releases) [![](https://badges.gitter.im/docker_practice/Lobby.svg)](https://gitter.im/docker_practice/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -54,3 +55,9 @@ Docker 自身仍在快速发展中，生态环境也在蓬勃成长。建议初�
 =======
 # docker_practice
 >>>>>>> Initial commit
+=======
+# docker_practice
+1.from 12.18 to 12.22, 2017.
+  Last week , I had learnt new basic knowledage about Git.
+
+>>>>>>> log something of last week
