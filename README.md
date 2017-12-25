@@ -58,6 +58,6 @@ Docker 自身仍在快速发展中，生态环境也在蓬勃成长。建议初�
 =======
 # docker_practice
 1.from 12.18 to 12.22, 2017.
-  Last week , I had learnt new basic knowledage about Git.
+  Last week , I had learnt new basic knowledge about Git.
 
 >>>>>>> log something of last week
