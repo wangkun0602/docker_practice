@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docker — 从入门到实践
 
 [![](https://img.shields.io/github/stars/yeasy/docker_practice.svg?style=social&label=Stars)](https://github.com/yeasy/docker_practice) [![](https://img.shields.io/docker/pulls/yeasy/docker_practice.svg)](https://store.docker.com/community/images/yeasy/docker_practice) [![](https://travis-ci.org/yeasy/docker_practice.svg?branch=master)](https://travis-ci.org/yeasy/docker_practice) [![](https://img.shields.io/github/release/yeasy/docker_practice/all.svg)](https://github.com/yeasy/docker_practice/releases) [![](https://badges.gitter.im/docker_practice/Lobby.svg)](https://gitter.im/docker_practice/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -50,3 +51,6 @@ Docker 自身仍在快速发展中，生态环境也在蓬勃成长。建议初�
 欢迎鼓励项目一杯 coffee~
 
 ![](https://github.com/yeasy/docker_practice/raw/master/_images/donate.jpeg)
+=======
+# docker_practice
+>>>>>>> Initial commit
